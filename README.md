@@ -1,5 +1,6 @@
 # DKR1 Мартиненко Нініта Ре-22
 
+```ruby
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -135,3 +136,4 @@ int SumMatrix(int **matr, int line, int Rows, int Colums, int Orintation){
   return sum;
 }
 
+```
